@@ -112,7 +112,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{youtube: "https://www.youtube.com/watch?v=6vr0amOKCHo", name: "Blue Moon-Frank Sinatra"},
-	{youtube: "https://www.youtube.com/watch?v=6vr0amOKCHo", name: "Jingle Jangle Remix"},
+	{youtube: "https://www.youtube.com/watch?v=Lq7wO1qtQuM", name: "Jingle Jangle-Kay kyser"},
 	{youtube: "https://www.youtube.com/watch?v=8XPzICHxXoQ", name: "Crawl out through the fallout-Sheldon Allman"},
 ];
 
